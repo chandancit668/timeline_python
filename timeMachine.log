@@ -1,69 +1,23 @@
-2018-12-13 14:09:16,850 INFO     Added timemachine.dat
-2018-12-13 14:09:16,850 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 14:09:16,851 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 14:14:13,067 INFO     Added config.dat
-2018-12-13 14:14:13,067 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 14:14:13,068 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 14:17:10,207 INFO     Added config.dat
-2018-12-13 14:17:10,207 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 14:17:10,209 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 14:19:46,131 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 14:22:12,870 INFO     Added config.dat
-2018-12-13 14:22:12,870 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 14:22:12,871 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 14:28:19,758 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 14:30:17,162 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 14:30:33,432 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 14:30:33,436 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 14:50:37,202 INFO     Added timeMachine.py
-2018-12-13 14:50:37,202 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 14:50:37,203 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 14:50:37,205 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 15:17:57,690 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 15:17:57,692 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 15:20:59,371 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 15:20:59,374 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 15:25:02,047 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 15:25:02,048 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 15:26:41,823 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 15:26:41,825 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 15:28:39,846 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 15:28:39,848 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 15:32:58,739 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 15:32:58,741 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 15:33:29,589 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 15:33:29,591 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 15:33:56,920 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 15:33:56,922 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 15:35:08,878 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 15:35:08,880 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 15:36:09,654 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 15:36:09,655 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 15:37:05,046 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-13 15:37:05,048 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-14 08:15:35,263 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-14 08:15:35,281 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-14 08:19:50,775 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-14 08:19:50,776 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-14 08:20:28,858 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-14 08:20:28,859 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-14 08:21:28,841 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-14 08:21:28,842 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-14 08:21:59,366 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-14 08:21:59,367 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-14 08:30:11,913 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-14 08:31:45,075 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-14 08:41:02,861 INFO     Added new.txt
-2018-12-14 08:41:02,874 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-14 08:41:02,907 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-14 08:41:02,950 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-14 08:42:40,486 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-14 08:42:40,487 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-14 08:45:43,507 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-14 08:45:43,508 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-14 08:46:24,680 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-14 08:46:24,681 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-14 08:49:01,161 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-14 08:49:01,162 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-14 08:50:04,435 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
-2018-12-14 08:50:04,436 DEBUG    Reading config from /home/chandan/Documents/timeMachine/config.dat
+2018-12-14 20:26:15,453 DEBUG    Reading config from /home/scz/timeline_python/config.dat
+2018-12-14 20:48:01,700 DEBUG    Reading config from /home/scz/timeline_python/config.dat
+2018-12-14 20:48:01,702 DEBUG    Reading config from /home/scz/timeline_python/config.dat
+2018-12-14 20:48:01,782 DEBUG    Reading config from /home/scz/timeline_python/config.dat
+2018-12-14 20:49:39,161 DEBUG    Reading config from /home/scz/timeline_python/config.dat
+2018-12-14 20:49:39,162 DEBUG    Reading config from /home/scz/timeline_python/config.dat
+2018-12-14 20:49:39,165 DEBUG    Reading config from /home/scz/timeline_python/config.dat
+2018-12-14 21:04:47,007 DEBUG    Reading config from /home/scz/timeline_python/config.dat
+2018-12-14 21:04:47,008 DEBUG    Reading config from /home/scz/timeline_python/config.dat
+2018-12-14 21:06:28,603 DEBUG    Reading config from /home/scz/timeline_python/config.dat
+2018-12-14 21:06:28,605 DEBUG    Reading config from /home/scz/timeline_python/config.dat
+2018-12-14 21:08:30,787 DEBUG    Reading config from /home/scz/timeline_python/config.dat
+2018-12-14 21:08:30,789 DEBUG    Reading config from /home/scz/timeline_python/config.dat
+2018-12-14 21:08:38,780 DEBUG    Reading config from /home/scz/timeline_python/config.dat
+2018-12-14 21:08:38,782 DEBUG    Reading config from /home/scz/timeline_python/config.dat
+2018-12-14 21:09:57,670 INFO     Added /home/scz/Documents/timeMachine/filespy.log
+2018-12-14 21:09:57,671 DEBUG    Reading config from /home/scz/timeline_python/config.dat
+2018-12-14 21:09:57,672 DEBUG    Reading config from /home/scz/timeline_python/config.dat
+2018-12-14 21:09:57,694 DEBUG    Reading config from /home/scz/timeline_python/config.dat
+2018-12-14 21:10:55,741 DEBUG    Reading config from /home/scz/timeline_python/config.dat
+2018-12-14 21:10:55,742 INFO     Removed /home/scz/Documents/timeMachine/algo.txt
+2018-12-14 21:10:55,743 DEBUG    Reading config from /home/scz/timeline_python/config.dat
+2018-12-14 21:10:55,744 DEBUG    Reading config from /home/scz/timeline_python/config.dat
